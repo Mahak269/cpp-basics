@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+// Program to find maximum of two numbers
 int main() {
 int a, b;
 cout << "Enter 2 numbers:";
